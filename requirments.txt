@@ -1,0 +1,13 @@
+torch
+torchaudio
+pandas
+numpy
+editdistance
+jiwer
+tqdm
+matplotlib
+seaborn
+scikit-learn
+# flashlight-text # Добавьте, если используете Beam Search и устанавливаете его
+# jupytext # Если используете для синхронизации .py и .ipynb
+# ipykernel # Для запуска в Jupyter

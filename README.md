@@ -29,7 +29,7 @@
 
 1.  Клонируйте репозиторий:
     ```bash
-    git clone <your-repo-url>
+    git clone [<your-repo-url>](https://github.com/DinoZawrik/MorseDecoder.git)
     cd morse_code_project
     ```
 2.  Создайте и активируйте виртуальное окружение (рекомендуется):
